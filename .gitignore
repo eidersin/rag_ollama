@@ -1,0 +1,27 @@
+# Arquivos e diretórios gerados automaticamente pelo Python
+__pycache__/
+*.pyc
+
+# Ambiente virtual
+venv/
+
+# Dados gerados dinamicamente (ex.: chunks.pkl, docs.index)
+vectorstore/faiss_index/*
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+
+# IDEs e editores de texto
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos do sistema operacional
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Outros exemplos de arquivos a serem ignorados
+*.md 
+!README.md 
