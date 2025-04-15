@@ -61,7 +61,7 @@ Exemplo fora do contexto:
 ```
 
 ## Estrutura do Projeto
-
+```
 .
 ├── docs/
 ├── vectorstore/
@@ -73,3 +73,4 @@ Exemplo fora do contexto:
 │   └── ollama_client.py
 └── utils/
     └── text_splitter.py
+```
